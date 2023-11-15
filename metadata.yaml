@@ -1,0 +1,24 @@
+_repo: The-strange-story-of-the-Dunmow-flitch_71995
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Robertson-Scott, J. W.
+    gutenberg_agent_id: '56489'
+    url: http://www.gutenberg.org/2009/agents/56489
+description: ''
+gutenberg_issued: '2023-10-31'
+identifiers:
+  gutenberg: '71995'
+language: en
+pgterms:marc905: 20231022143554robertsons
+pgterms:marc906: '1909'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: '  $aDunmow :$bDunmow: D. Carter, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The strange story of the Dunmow flitch
+url: http://www.gutenberg.org/ebooks/71995
